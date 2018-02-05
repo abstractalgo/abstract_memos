@@ -1,0 +1,9 @@
+:: simulated 'if'
+
+I was waiting for a bus, and I saw a stray dog wandering across the street. Few seconds later, a car passed by, and dog, like it was triggered by it, started barking at it. It was chasing it for a couple of seconds and soon dog gave up and retrieved back to its old patrol area. Entire cycle repeated for each passing car, and if there were more cars passing it wasn't always chasing the one closest to the patrol area but the ones that the dog "made sure" it was going further way, i.e. was chased away.
+
+It was interesting observing, that almost automatic behavior, where dog would get triggered by the event. Chemical processes and events in brain are thought of as usually continual/analogue, but on the molecular level, it's all still very quantized. Was it some final accumulation of "anger" emotions/molecules and molecules that are part of interpretation that dog is being threatened by something, that triggered the dog to act one way or another? Can one molecule make such a big difference in expressed behavior? Chemical processes being chaotic.
+
+On the other hand, if all things in some model are continual, then the differentiation between that, and apparent behavior being digital (one way or the other with nothing in between) is nevertheless interesting. It's a "simulated digital behavior", through the analogue model - a "simulated programmatical if" from a continuous world.
+
+Quest to completely merge continuous and discretized continues.

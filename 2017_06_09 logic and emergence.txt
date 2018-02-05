@@ -1,0 +1,31 @@
+Introduction to Logic
+by Stanford University
+@coursera
+https://www.coursera.org/learn/logic-introduction/home/welcome
+
+Introduction to Mathematical Thinking
+by Stanford University
+@coursera
+https://www.coursera.org/learn/mathematical-thinking/home/welcome
+
+notes:
+
+emergence in math logic - take into the account the relations between the statements, i.e. order if nothing else:
+
+Peter threw the ball & the ball went into the hoop
+(it means that Peter forced the ball into the hoop)
+
+The ball went into the hoop & Peter threw the ball
+(Peter threw the ball after the ball went through the hoop)
+
+New information emerges from natural language, but not the mathematical.
+Perhaps language (even the language of logic) should have the ability to depend on the (previous) "context".
+
+(Shannon's information doesn't depend on previous context; maybe it should?)
+
+Two parts of the statement are like two wave functions, each independent and on its own, but when combined they represent a new piece of information.
+
+implication involves causality
+implication = conditional + causation
+causation requires relation between antecedent and consequent
+statements "know" about each other the way particles in physics know about it other, but particles only appear to "know" about things as a consequence of the non-local effects, global wave function e.g.

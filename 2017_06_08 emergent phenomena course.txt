@@ -1,0 +1,14 @@
+Emergent Phemonena in science and everyday life
+@coursera
+
+https://www.coursera.org/learn/emergent-phenomena
+
+notes:
+
+- chaotic dynamics
+- fractals
+- Newton
+- patterns emerging through Foruier series and diffusion
+- plant growth via microtubuli emergent self-organization via rules for direction and boundary conditions
+- reductionism vs emergence (reversibility of experiments)
+- consciousness (arousal, orientation, detection, execution)

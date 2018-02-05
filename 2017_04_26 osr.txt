@@ -1,0 +1,10 @@
+Universe is made out of fields.
+"Objects" are collections of behaviors and measurements associated with it.
+Measurement is an output for a given interaction.
+Interaction is a relation.
+Qualia gives "meaning" to the relations.
+
+TODO: quantum measurement, and measurement problem
+
+Philipp Berghofer OSR (ontic structural realism):
+https://www.youtube.com/watch?v=zOU6oi6LToY

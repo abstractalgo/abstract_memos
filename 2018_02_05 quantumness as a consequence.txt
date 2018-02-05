@@ -1,0 +1,17 @@
+:: quantumness as a consequence
+
+I really prefer the Bohmian mechanics. It really comforts me to think about things as being deterministic, even in the quantum world.
+
+I've read some time ago, somewhere (before I started writing these so I didn't make notes) that quantum equations and probabilistic behavior are only there because we don't know the entirety of the system that we're observing/measuring. That PoV also nicely fits into Bohmian view. It's about globality of the system, not parts viewed at in isolation. Even that "isolation" is fake, and every single measure that we make still pays the price of it being the part of a much bigger thing that we try not to account for. And Bohmian mechanics' most often neglected rule, and also the most important, is that considering things on global scale makes all the difference. And that, "weird quantum behavior" us purely due to our lack of knowledge about entire system.
+
+That means that any, literally any system, can be "quantum" when you remove parts of information about it from your calculations. You know your dice. Six sides, each with probability of 1/6. It's purely probabilistic. But only because we can't calculate everything that influences it while rolling. We've removed the information from it (well, a lot of information, basically the rest of the universe except that dice)
+
+Because you know only a part of the rules in the system, and you only know a part of the components in the system - you only can get the partial results about the system's behavior. The more you know, the higher chance that your margin of error is also high. And we can know quite a lot, so we get pretty accurate results. But still, our measure can produce only probabilistic results. We always have an error for simple reason that we don't know entire system. This pleases me to think in this way - that stochastic characteristics are only due to inability to account for entire system.
+
+Is it a computational limitation - "you need entire universe to simulate/know an entire universe"-kind of thingy? Is it ontological limitation - you cannot interact back with things that can influence you? Maybe it's out logic's limitation? Is it a "(hidden variable)[https://en.wikipedia.org/wiki/Hidden_variable_theory]" that cannot be fathomed? Or maybe, just maybe - there are no limitations.
+
+But instead of "hidden variable" messing up our system and making it probabilistic, can we go the other way around - if we have a probabilistic system, can we prove what makes it indeterministic, whether it be just lack of information, or some effect that cannot bu controlled? In another words, if we have a system whose behavior we can only probabilistically predict, can we prove that we can know entire system, and that that would cover for explaining all of its behavior?
+
+--
+
+Another very unsettling thing is to think about that missing information. Systems can be chaotic. Missing small amount of information can result in huge mismatches between predicted and observed behavior. So far, physics seems to be heading in a generally right way. Its errors are satisfiable. But along the way, it can happen that entire model was wrong. Even with world being deterministic, missing pieces can be so important that nothing else matters practically. But we'll see.

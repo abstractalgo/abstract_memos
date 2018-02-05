@@ -1,0 +1,10 @@
+For some time I've been thinking in the direction that relations are fundamental ontic structural component. They are qualitative description of the reality. Whether it be for real real or not, it would serve its purpose as a model for reality. On the other side, quantitative measure of the world and relations that make it up would be information. But even in such model (which I still haven't found a way to prove, or to force translation of the current object-based models to the relationistic), the question that remains is how qualia emerges from it?
+
+Slight modification of this view would be something like:
+
+qualia = qualitative representation of the relation
+information = quantitative representation of the relation
+
+It would practically mean that relation in inaccessible as ontic structure and effects of it could be only measured through information, but actual ontic events would always be hidden. The information is just a measure. It's a tool used to produce other useful things. But how exactly qualitative description of the reality (i.e. qualia in this case) rises, and how to precisely compare different qualia through the information used to measure them are questions that remain to be answered.
+
+This story very much reminds me of work of John J. Kineman. I'd need to freshen up my memory by re-reading those materials.

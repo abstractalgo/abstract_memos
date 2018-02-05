@@ -1,0 +1,23 @@
+:: locality as a consequence
+
+All the talk about quantum entanglement makes you wonder.
+
+All physicists agree that quantum entanglement is a weird thing. Instantaneous reaction. No matter how much space between. Although I'm not familiar with specifics of the experiments that prove that, at lease as a pure concept gives me something to think about.
+
+If locality is surpassed in entanglement, maybe it's not the fundamental thing. Maybe in fact, the entanglement is the fundamental thing and locality (local behaviors and influence) is an emergent property. If we often think of fields as water, and changes in it as ripples in it where locality is only natural to think about as you see the ripple spread and influence the neighbors of the influenced parts of space going on and on, re-influencing each other forever, now think of some super-field, where each point in it is connected with literally every other point in it. And as cellular automata, but just infinitely dense and maximally connected, each cell influencing all of its neighbors, in this case that being an entire space. In such system, entanglement is perfectly natural, but locality ain't much so. So here's the trick:
+
+    Can you get emergent behavior of locality-like effects in such fully connected system?
+
+Remains to be seen, and yet, this is just a thought.
+
+--
+
+Another interesting thing to think about regarding this is the geometry of such super-dense field.
+
+If that "field" was a single point (and not a 3d space), then it would take only that one point to represent the super-dense field as well. So 0d object's super-dense field is 0d object as well.
+
+If that "field" was a line, then each point has infinitely many other lines at different levels of it intersecting that point - an entire plane of lines intersecting one point. So while line is a 1d object, super-dense field is in some weird way - a 3d object.
+
+If "field" was a 2d plane, then every point requires a 3d object. In total - 5d object.
+
+I'm not sure what I'm getting at, neither if my intuition/calculations are correct, but hey, it's fun to think about it.
