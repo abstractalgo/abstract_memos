@@ -1,0 +1,51 @@
+:: relativity in complex systems
+
+Let me tell you about two examples that I noticed were sharing a same pattern and could easily extended to other cases as well.
+
+---
+
+I wondered how in movies all those celestial beings big as tens of Suns were slow. They always had deep voice and slow but calculated moves that crushed entire worlds. You'd then have some type of Avengers flying around it and killing it bit by bit. They'd fire thousands of bullets and missiles at that titan while titan would for that time only manage to do one swing of the hand because it was so damn slow. But here's where the pattern kicks in. Let's say that titan has nervous system and other senses, as we do. It's eyes would capture incoming light and send signal to the brain which would then be processed and sent to the muscles to react. But the distance that electric signals need to travel across titan's body is huge, it's tens of thousands of kilometers. But when titan finally moves, it's doesn't do it slowly, it may only be perceived as such. But his absolute position of moves is huge. Being that large moves its parts of body in the least time possible, but it has also huge muscles and huge amounts of energy stored in entirety of its body. So it has enough energy to move large masses at big speed. So in its coordinate space, moving hand from the height of its head to the height of its chest is perceived to be as fast in its subjective time space and conscious mind as it would be in a case of a mere human that is only 1.8m tall. Yes, the human took an absolute 0.4s to move its hand, and titan took 40s to move its hand, but amounts of energy exchanged, and impact on the change of the entire system remains proportional. Human only exchanged E amount of energy and disturbed volume of couple of cubic decimeters of particles. But titan exchanged 1000x E amount of energy and disturbed a full two planets of volume of particles while it made that move.
+
+So it seems that:
+
+titan's resources spent / titan's impact achieved = human's resources spent / human's impact achieved
+
+Absolute time passed is different, but so are consequences.
+
+It also looks like titan has some sort of delay in his actions. Say that Avenger attacked him and hit him in the eye. The titan would still need to wait all those signals to travel along its body and reach the muscles eventually before being able to respond to that. It seems that Avenger by that time would be able to escape easily. But here's also another thing - the distance that Avenger needs to travel before being safe and out of titan's reach is huge and it would take him a lot of time to reach it. And guess what, titan has that approximately same amount of time to activate muscles and swing its hand at the avenged that attacked him. So after all, it is a fair fight.
+
+And it also seems that titan has some kind of "delay" in its actions, because its body is waiting for all those signals to travel across the body. But its body is still reacting to previous signals that were sensed. So its body is always "active" and is actively responding to the environment. And energy exchanged while those signals are traveling is still the proportional to titan's size. So, in a unit of time, there are billions of signals firing and re-firing across the titan's body, while human only has say thousands of signals. And let's say that each signal can be represented by the same amount of energy. So even the titan is larger, it has proportionally larger amount of signals. So, the amount of system's changes within titan's body per unit time is about the same as in human's. It has perceived delay in actions but actually looking at the derivatives of the change of the system - they are the same.
+
+---
+
+Another example is also concerned about amounts of change in the system versus size/complexity of the system.
+
+I was doing startup at the moment of writing this, and so we were concerned about some big company trying to copy us and just ditching our product off the market because big company can make a huge impact and achieve huge results.
+
+In a startup, you have only a few people, in our case only two. From idea to realization we only have a couple of minutes of discussion and the rest of the time goes onto realization.
+
+In big company, to go from idea to realization, it takes discussion between board members. Then meetings with managers of managers. Then organizing hierarchy and job split between the teams. Than manager of each team needs to delegate jobs to its members, but only after briefing them and explaining them the project and what other teams are working on and how it all fits in one big picture. And only then can the workers do their job. And each worker has only a "small" part of the entire thing, so they also spend equally the same amount of time programming as we in startup did. But entire process took much more time for reasons of hierarchy existing.
+
+And while at startup, we only took 2 days to develop a feature, and the company took 6 months to create that same feature, the impact is also proportional. Out area of effect is very small and affects only few people, but big company is big because in the past it affected a lot of people so it has many resources, and now it has the ability to disrupt larger quantities of the global system.
+
+In both cases, per-person's impact on the system in comparison to amount of work invested is the same. Two people at startup work 8h/day for two days and develop a feature that changed their product, but the product is small so absolute amount of change is small, and so it the area of effect. And in the big company, thousands of people work 8h/day for 6 months are develop a feature that changes their company's entire product, and that product was/is big, so amount of change is huge, and so it would be the area of effect. Each person did the same amount of work (energy of one electric signal in the body ^), but system that it's part of is changing environment as a whole.
+
+And again, it looks like big company has a delay in actions, but watching at the amount of workhours spent in comparison to the scale of the system making those changes, that remains the same.
+
+thousands of employees * 8h / thousands of employees
+=
+2 employees * 8h / 2 employees
+
+---
+
+size of the system : resources spent : impact = const
+
+It seems like some sort of rule. It seems that systems are bound to do not less than that amount of work, and can't do more than that. The impact of the big system is only relative to its size, while its units are still at the constant rate of work done.
+
+It seems intuitive to me for physical systems to be bound by this, because of transfer of energy. But from the startup/company example it looks like this law of constant derivative of change is not present in physical systems. It sure is dictated by the different rules and might not have to do anything with physical energy, but it exhibits that behavior nevertheless.
+
+Is this applicable to finances, where amount of impact (resources earned) could be related and is proportional to the resources spent? But finances use statistics to find best returns for resources invested, but maybe then entire financial world is bound by the amount of change that can happen during a unit of time. Yes, local inhomogeneities mean that somebody earned more money, and somebody earned less money than that constant factor, but overall the system's change could be constant.
+
+In science, could it be that progress of science is also constant? If each scientist progresses the science by fixed amount of progress, the next week, entire science is bigger thanks to things discovered previous week, so now the science progress is slowing when talking about relative comparison of amount of progress vs size of science?
+
+I guess there are more examples of this pattern and is very interesting.
