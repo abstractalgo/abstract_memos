@@ -1,0 +1,107 @@
+:: uncertainty in labeling
+
+There are two obviously differently colored cars in front of me, and yet both are still "RED".
+Dictionary of words that I have to describe the world around me isn't capable enough to differentiate these two cars when I'm describing them, and call the first "CRIMSON" and the second one "SCARLET", as more educated people would say.
+
+But all people have different dictionaries (dictionary is a set of symbols/words that can be assigned to a certain (property of a) system to describe it), and everybody was learning how to assign words to things on different examples. So people can end up describing factually different things in the same way, and can describe same things differently.
+
+And, we humans, have become accustomed to this. We've learned that there is a significant uncertainty in descriptions and communication, because our language and which words we use for what weren't setup in the exact same way for everyone.
+
+So, in a classic conversation, we as a speaker, try to use words that minimize the chance of error and successfully express the idea that we're trying to conceive in another person (i.e. the listener). But, as a listener, we are getting a stream of words, and we're trying to form a mental picture of what's happening. Words start building "context", and that pushes uncertainty in some direction. (e.g. Someone says "RED, but BRIGHT RED", so our initial spectrum of actual colors that can relate to the description "RED" has now become much smaller (i.e. more narrow and with smaller margin of error) once we found out that it's actually a "BRIGHT RED")
+
+This simply "proves" that natural language is very uncertain, and that's why we combine many symbols (words) together to form more specific descriptions (i.e. sentences) of whatever is that we're trying to explain thus lowering the uncertainty. But there is also a problem of "aliasing".
+
+But by using very long sentences we can describe things very precisely. The more symbols we use, the more we narrow down the possibilities. Well, most of the time. There is a case where we EXACTLY describe something. If we've said "a color of 750nm", then, damn, there is literally 0 uncertainty. So our measurement that returned "RED" was more imprecise than "CRIMSON", and that was more imprecise than "750nm". So the measurement and base that we use for our measurement (calling colors by names vs naming them by wavelength) are directly tied to ability to generate definitive or uncertain decompositions [of our description].
+
+:: aliased behavior (an example)
+
+So, the other day, I was looking at the pigeon. It resembled every other pigeon I ever saw, until it didn't. At one point in time, the pigeon started having long stares in a single direction, and would sometime tilt its head just a tiny bit downwards. It looked... like it was thinking. It looked focused, worried, like it was pondering some very hard question. It looked smart.
+
+But we all know that pigeons aren't that smart. And they are definitely not smart enough for me to correctly label them 'smart as person'. But that particular pigeon had some of the attributes that I/we find in the behavior of smart people, or should I say, of the people that we label as 'smart'.
+
+The conclusion that I derived is that it can happen for two completely differently assembled systems (pigeon v human), under a specific set of circumstances (parameters of environment) to reach exactly the same or at least partially (that part being observed) same behavior (expressiveness).
+
+Example with pigeon and human is a bit too complex perhaps, but if you, for example, compare two systems, the first - multiplying two numbers together, and second - adding two number together, and if you input pair (2,2) in them, you'll get the same output (they'll express themselves exactly the same, i.e. what you measure/observe will be the same) - number 4. But in all other cases, these two systems would behave wildly different. So the point this illustrates is that indeed, two systems can be "aliased" (matching at a certain point(s) in their behavior), and one could be wrongly described by the structure of the other and vice versa thus. (uncertainty in labeling, again)
+
+So, how do we know that pigeons in fact aren't that smart? How do we generally not make mistake of wrongly describing systems by other's structure only because they are aliased in certain cases?
+
+The trick is to observe behavior multiple times. Each sampling of the behavior of one system discards entire sets of possible explanations of structure (models) that lead to behavior observed in all samplings of it.
+
+In an example with pigeon, before it 'looked smart' and after it, the pigeon exhibited something that we, from experience, would call 'average pigeon behavior': it was pecking dirt, flying around the space and having bird-like sudden movements of the head and neck. So for the most of the time that I observed it, it looked rather ordinary and was strongly matching with expected bird behavior, and it wasn't being very 'smart'.
+
+In a multiply-v-add example, if we just continue sampling outputs for more inputs, we'd quickly realize that their behavior is very different, and models that we'd develop to describe behavior of first and second system would differ significantly.
+
+So, here's the thing: the system that we cannot disassemble and explain with a reductionist approach, but rather can only sample its behavior, those  measurements exhibit uncertainty principle similar to the one of measuring signals and comparing their time and frequency domain (https://www.youtube.com/watch?v=spUNpyF58BY).
+
+This observation leads to connection between (quantum) uncertainty and behavior analysis.
+
+This also relates uncertainty and natural language as described before. (remember that we also said that "longer sentences have more precise description of a system", so again there's that trade-off between two domains that represent something)
+
+
+:: behavior decomposition
+
+The interesting continuation of this thinking leads to question - what are exactly the two domains in our behavior analysis that share that uncertainty principle?
+
+So we're sampling behavior and on the other side getting description of the model for such behavior (this is a proposition/guess, not a fact).
+Do we compare 'behavior domain' to the time domain, and 'model domain' to the frequency space?
+Or vice versa?
+Is is actually true that the other domain is "model space", or is it something else?
+If these two domains share the exact same uncertainty principle between them, it could be really fun to see if also one space can generate the other and vice versa. It is obvious that behavior can be described by a model (e.g. functions), but also we can find a model by observing/measuring behavior of that yet unknown system and its model (after all, it is how we do science in general).
+In the case of Fourier analysis, we can find basis functions (of frequency space) that generate all variations in the time domain. Can we find basis for behavior analysis, i.e. can we find basis that is a set of behaviors that can generate every model when they are combined specifically for that model, or perhaps it's the other way around, that we have a basis of models, that when specifically combined can generate any behavior?
+
+It is also interesting to think what if Fourier decomposition is just a very special decomposition of function into their basic model of interacting sin and cos functions? Can we generalize Fourier decomposition, and not just by increasing parameters in question (e.g. more dimensions)?
+
+This leads to connection between Fourier analysis and behavior analysis.
+
+:: a new(er) kind of science
+
+There's a book by Stephen Wolfram, called "A new kind of science". It's a very long book (and I haven't finished reading it atm), but the basic premise is this (!spoiler alert!):
+ - compare and explain rules and behavior of a certain system to a (computer) program
+ - simple programs can generate even extremely complex behavior (outputs)
+ - very small programs can describe a very large part of behavior's landscape, and additional and extremely detailed instructions contribute very little, but in a controlled way (in another words: there may be large and specialized parts of programs that actually contribute very little overall, but they do that in a very controlled way for a very specific and narrow purpose)
+
+(thinking in programs means thinking in functions, those are computationally equivalent, so unless you have an intuition from theory of computation, thinking in terms of math functions is just fine, just change every mention of a word "program" to "function")
+
+This all pretty much makes sense, is not superbly general nor formally proven (and that is the main problem of the entire book, that it's purely demonstrational and gets to conclusions without much formal evidence/proof).
+
+But let's compare that to Fourier analysis:
+ - compare and explain behavior to functions
+    okay, checked (read it as: time domain can be converted to, expressed by and generated by its frequency decomposition)
+ - simple functions can generate even extremely complex outputs
+    okay, checked (read it as: few frequencies can generate pretty complex functions in time domain)
+ - small number of frequencies determine the time domain function largely, and there may be a lot of additional frequencies whose combination actually contributes very little
+    okay, checked again, because indeed it can happen
+
+So, this relates computational theory with Fourier analysis and uncertainty and behavior analysis.
+
+Just briefly, let's see what this could mean for behavior analysis potentially:
+Small number of (simple?) models generates usually the largest portion of the behavior, with possibility that there may be quite a lot of additional parts of the system representable by other models, and even though there's a lot of them and they are complex, they may contribute very little to its behavior.
+
+Implications of this are various and super interesting (and are left for the reader as an exercise).
+
+:: conclusions
+
+We've combined uncertainty and Fourier decomposition, computation and behavior analysis, finding many shared properties between them and they lead to one another. It seems that there is something very fundamental about decomposition from one space to the other, and potential to decompose behaviors to models and vice versa is extremely powerful and interesting, however, much is left to explore and figure out.
+
+In this two-way space analysis that has trade-offs with precision, we've combined:
+ - time and frequency space (Fourier)
+ - factual state and natural language (first part about uncertainty in language)
+ - behaviors and programs ("A new kind of science" book)
+ - behaviors and models (behavior analysis)
+ - string representation (encoding) and programs (theory of computation, compression(minimal encoding))
+
+ (the last one is unmentioned here because it's too long and too formal, but go read "Introduction to the Theory of Computation" by Michael Sipser)
+
+---
+
+appendix:
+
+:: few notes about behavior analysis
+
+It's an ongoing effort of mine that revolves around ides that properties of the system (i.e. its behavior) and measurement (i.e. measurement problem) are some of the fundamental things that needs to be worked out. How we've developed (natural) languages and how we assign symbols to objects to describe them, practically relating object's behavior to it, and how that relates to measurement, and then description of a system's behavior.
+
+So behavior analysis is about: properties (of a system), measurement and assigning symbols to measurements that encode the behavior (and how to construct models from it).
+
+The purpose is to be able to compare two systems by their behavior, compare two systems by their models (reductionist approach), formalize "emergent" properties etc.
+
+A lot more will be written on this on some other occasion.
