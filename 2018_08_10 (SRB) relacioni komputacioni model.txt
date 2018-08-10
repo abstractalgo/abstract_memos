@@ -1,0 +1,16 @@
+napraviti komputacioni model iz relacija
+dokazati da je Turing komputaciono ekvivalentan relacijama, ali da relacije mogu da rese neki Turing nekompletan problem
+iz toga ce slediti da je relacioni racun superiorniji
+
+behavior decomposition
+    kako iz behaviora se prevodi u model (i.e. program, tj relacioni program)
+    nastaviti analizu bazisa relacionih programa/modela
+        da li ce se onda stici do modela koji je najmanji koji definise pravila takvog racuna, kao sto npr 5-tuple definise Turing masinu
+        superponiranje frekvencija v superponiranje programa, kako to utice na ekspresiju behavior-a
+
+    turing/lambda imaju encoding objekata
+        dakle rade s objektima
+        relacioni racun onda zamenjuje objekte u potpunosti
+        potrebna set teorija?
+
+label-i su onda samo simboli koja oznacavaju komputacionu ekvivalenciju necega
