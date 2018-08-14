@@ -1,0 +1,15 @@
+Furijerova analiza i generalno bilo koja dekompozicija (spherical harmonics via Lagrange polynomials or prime factorization) odredjuju bazise koji su ortonormalni, tj. svaka komponenta je nezavisna od drugih
+
+redukcionizam je rastavljanje na ortonormalne komponente i razlucivanje delovanja sistema jer su komponente nezavisne. na primeru satnog mehanizma, svaka od komponenti (baterija, oscilatorna viljuska, mehanizam za smanjenje oscilacija, mehanizam zupcanika, kazaljke) je samo pure function koja ima ulaz i ima izlaz, nema nikakvih side effects, i zbog toga su ortonormalne komponente koje cine sat i to ga cini dobrim kandidatom za redukcionizam. ali kada su dekomponovani programi preklapajuci i imaju side effects jedni na druge, onda sistem postaje kompleksniji.
+
+pitanje: da li je moguce uzeti bilo koji sistem i dekomponovati ga po pitanju bilo kog bazisa? npr da se bazis relacionog programa, ili bazis Turing masine, ili bazis koji su instrukcije C jezika, i onda da se izvrsi dekompozicija?
+
+    neke stvari u nekim od bazisa nisu moguce, sta se vraca tom prilikom?
+        npr ako nema neke instrukcije i ne moze da se emulira savrseno (sto i jeste poenta ako je bazis minimalan), onda sta se vraca u tom slucaju kao rezultat? magnituda te komponente je misleading, jer nije da treba samo da bude mala, treba da ima jos jednu dimenziju koja govori o "preciznosti".
+
+    raditi na dekompoziciji funkcija ne preko sin/cos bazisa, vec preko bilo kog seta funckija
+        to je optimizacioni problem?
+
+        imati gorespomenutu dodatnu dimenziju koja govori o relativnom preklapanju sa odredjenom komponentom.
+
+furijerova analiza i nema potrebu za redosledom, i.e. nije bitno u kom redosledu se superponiraju komponente, jer je sabiranje komutativno i sve je kul. sabiranje (nadovezivanje) programa nije komutativno. treba imati dodatnu dimenziju tokom dekompozicije koja vodi i o rekurencijama (ponavljanjima) komponenti, njihovom redosledu, magnitudi (koja je izgleda binarna), i relativnom preklapanju sa mogucnostima.
