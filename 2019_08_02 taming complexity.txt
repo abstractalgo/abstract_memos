@@ -1,0 +1,48 @@
+humanity's final endeavor will be taming complexity.
+
+solving ai would probably lead us to path of solving complexity,
+or
+solving ai would mean that we first need to solve complexity.
+either way, complexity and ai are connected.
+
+
+all our science and processes bottleneck complexity until it can be reductionistically explained and chained into other processes.
+
+our brain is limited in it's bandwidth.
+plus, we have many layers of encodings and decodings of information before it reaches our brain and after it is output, and all of that creates massive overhead. each successive step lowers the limit of absolute amount of information that we can process, and each layer is a bit more lossy.
+
+complexities to be solved:
+    - biological
+        - brain
+        - cells as a whle
+        - organisms as a whole
+        - genome
+    - large-scale human processes
+        - climate change
+        - economics
+        - scientific development
+    - large scale physical processes
+        - universe
+        - many-particle quantum systems
+    - programming
+        - applying math (converting naturally observed phenomena and our own biological computational language through natural language and into the language of math)
+
+what we have actually achieved so far is approach to taming problems that have equivalent processing requirements as our brain. additional success is about compositioning caefully chosen entities into larger structures.
+
+yet still, our computational systems fail us - we don't recall an already projected path, our accumulated errors in projections get too large, or we don't consider a specific path at all.
+
+range of possible behaviors gets bigger with more components in the system. the sheer dimensionality of behaviors gets bigger, number of possible interactions between components, and a chance for accumulated errors to have large, notable, damaging effects.
+
+even if average time for considering one path of state changes is not too long, our computational machine can and will create errors, and with massive scale of paths to consider, we're unable to account for them all.
+
+computers are great at not leaving the room for error, but they are bad at discarding impossible outcomes. but as soon as we are able to discard something without explicit calculation and conclusion, it means that we generate an error (margin).
+
+------------
+
+let's say that parallel calculation is solution to this problem.
+
+many machines crunching the various paths starting from the same seed.
+
+their internal states would diverge more or less, and they'd need to sync up between each other creating overhead and leading to errors in communication due to encoding and decoding and renormalization procedure. even with complete information about one's internal state, machine that recieves the information would need to superimpose that information with its own state.
+
+[...]
